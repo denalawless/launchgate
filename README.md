@@ -1,7 +1,7 @@
 # LaunchGate™ 🚀
 ### The 17-Domain Readiness Engine for AI-Built Apps.
 
-**LaunchGate** is a specialized verification framework designed to catch the critical security, logic, and infrastructure gaps that coding assistants (Lovable, Cursor, Bolt) often overlook. It turns "I think it works" into "I know it's secure."
+**LaunchGate** is a specialized verification framework designed to catch the critical security, logic, and infrastructure gaps that coding assistants (Lovable, Cursor, Bolt) often overlook. Close the AI-security gap before your users find it. The Go / No-Go pre-launch audit for apps built with Lovable, Cursor, and Bolt. 17 domains, 160 checks, 9 red-team scripts — catches the RLS leaks, exposed keys, and happy-path logic AI assistants quietly ship past you.
 
 ---
 
