@@ -37,15 +37,14 @@ Prohibited: Commercial redistribution, white-labeling, or using this framework a
 
 Note on Proprietary Scripts: The "Red-Team" attack scripts and "Master Audit" prompts are proprietary extensions. These are not included in the open-source bundle but are available to licensed users via the authenticated dashboard.
 
-🚀 Getting Started
-1. Installation
-Bash
-git clone https://github.com/YOUR_USERNAME/LaunchGate.git
-cd LaunchGate
-npm install
-npm run dev
-2. Usage
-Open localhost:5173 to run your first audit. Navigate through the 17 domains to identify high-severity risks in your build.
+🚀 How to Use LaunchGate
+You can run a full 17-domain audit right now on the web. No installation or account required for the core framework.
+
+1. Run an Audit: Visit the Live Dashboard.
+2. Select Your Profile: Tell the engine if you're building a SaaS, an Internal Tool, or a Public MVP.
+3. Verify Your Build: Walk through the 17 domains to identify high-severity risks before you ship.
+
+Note: Premium features, including the Red-Team Attack Scripts, are unlocked via a one-time license available on the dashboard.
 
 🌐 Community & Support
 Live App: View LaunchGate Live
