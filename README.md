@@ -40,7 +40,7 @@ Note on Proprietary Scripts: The "Red-Team" attack scripts and "Master Audit" pr
 🚀 How to Use LaunchGate
 You can run a full 17-domain audit right now on the web. No installation or account required for the core framework.
 
-1. Run an Audit: Visit the Live Dashboard.
+1. Run an Audit: Visit the Live Dashboard
 2. Select Your Profile: Tell the engine if you're building a SaaS, an Internal Tool, or a Public MVP.
 3. Verify Your Build: Walk through the 17 domains to identify high-severity risks before you ship.
 
