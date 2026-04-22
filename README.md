@@ -1,5 +1,5 @@
 # LaunchGate™ 🚀
-### The check you run before you hit Publish.
+### "The check you run before you hit Publish."
 
 **LaunchGate** is a pre-launch audit for AI-built apps. A Go / No-Go security and compliance checklist for apps built with Lovable, Cursor, and Bolt. 17 domains, 160 checks, 9 red-team attack scripts — catches what coding assistants quietly ship past you. Close the AI-security gap before your users find it. 
 ---
