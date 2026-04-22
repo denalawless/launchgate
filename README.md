@@ -46,7 +46,6 @@ This project is distributed under the **PolyForm Noncommercial License 1.0.0**.
 
 ## 🌐 Community & Support
 * **Live App:** [https://cv-dena-lawless.lovable.app/launchgate](https://cv-dena-lawless.lovable.app/launchgate)
-* **LinkedIn:** [Follow the Journey](https://www.linkedin.com/in/denalawless/)
 
 ---
 *Built with ❤️ for the AI-Builder community.Available to ALL AI Builders!*
