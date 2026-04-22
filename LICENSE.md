@@ -1,7 +1,4 @@
-Since PolyForm isn't a standard "click-to-add" option on GitHub, you have to paste the text manually. Use the version below—it's the official PolyForm Noncommercial License 1.0.0.
 
-📄 The License Text
-Copy everything below this line and paste it into a file named LICENSE in your project root:
 
 PolyForm Noncommercial License 1.0.0
 
